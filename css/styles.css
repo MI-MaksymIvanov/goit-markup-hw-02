@@ -57,6 +57,19 @@ a {
   color: #434455;
 }
 
+.section1 {
+  background-color: #2e2f42;
+}
+
+.h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
 .page-footer {
   background-color: #2e2f42;
 }
