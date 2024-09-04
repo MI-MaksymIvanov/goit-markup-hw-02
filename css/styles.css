@@ -70,6 +70,21 @@ a {
   color: #fff;
 }
 
+.main-section-one-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.main-section-one-button.main-section-one-button:hover,
+.main-section-one-button.main-section-one-button:focus {
+  background-color: #404bbf;
+}
+
 .main-section-two-title {
   font-weight: 500;
   font-size: 20px;
